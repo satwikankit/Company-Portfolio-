@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+
+}
+.a {
+    text-align: center;
+    padding-top: 1%;
+    font-size: x-large;
+    font-weight: 900;
+    color: aliceblue;
+    text-decoration: underline;
+}
+.b {
+    /* background-color: red; */
+    color: aliceblue;
+
+}
+.b p{
+    text-align:center;
+    
+    padding-top: 2%;
+    color: aliceblue;
+}
+.c1 {
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: poppins;
+}
+.container {
+    display: flex;
+}
+.c2 {
+    color: aliceblue;
+}
