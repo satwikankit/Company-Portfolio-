@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Portfolio{
+
+background-color:black;
+    border-radius: auto;
+
+}    
+.Port{
+    text-align: center;
+    height: auto;
+    color: white;
+
+
+}
+
+.Port a{
+    color: #FFF;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    font-style: normal;
+    text-align: center;
+
+
+}
+p{
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF;
+
+}
+
+.manu ul{
+    border-radius: 50px;
+    background-color: white;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.manu ul li a{
+   
+    text-decoration: none;
+    color: black;
+    text-align: center;
+   
+    
+}
+.manu ul li a:hover{
+    cursor: pointer;
+    color: whitesmoke;
+    background-color: rgb(84, 74, 74);
+    height: 30px;
+    border-radius: 5px;
+    width: auto;
+    text-align: center;
+
+}
+.manu ul li {
+    list-style-type: none;
+}
+.manu{
+    width: 70%;
+    padding-left: 15%;
+}
+.content{
+    text-align: center;
+    height: 84px;
+    flex-shrink: 0;
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 2%;
+    
+}
+
+
+
+
